@@ -4,7 +4,7 @@ go 1.21
 
 require (
 	github.com/hashicorp/go-multierror v1.1.1
-	golang.org/x/crypto v0.23.0
+	golang.org/x/crypto v0.24.0
 	golang.org/x/term v0.21.0
 	gopkg.in/ini.v1 v1.67.0
 )
